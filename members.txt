@@ -1,0 +1,6 @@
+root  admin
+admin admin
+root root
+magic magic
+local localhost
+morphus morphus
